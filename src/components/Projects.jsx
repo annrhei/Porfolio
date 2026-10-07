@@ -1,21 +1,21 @@
 export default function Projects() {
   const projects = [
     {
-      title: 'BizClear',
-      description: 'A business permit processing and inspection tracking system with audit trail management for organized compliance workflows.',
-      technologies: ['React', 'Node.js', 'MongoDB', 'Audit Trail'],
+      title: 'SIGNSIGHT - CAMERA-BASED REAL-TIME SIGN LANGUAGE TRANSLATOR',
+      description: 'SignSight, a camera-based real-time Filipino Sign Language (FSL) translator that uses computer vision and machine learning to recognize and translate FSL hand gestures into readable text.',
+      technologies: ['PHP', 'Visual Studio', 'React Native', 'Git', 'Figma'],
       image: 'bg-gradient-to-br from-primary-400 to-primary-700'
     },
     {
-      title: 'Travel Go',
-      description: 'A travel planning application designed to help users explore destinations, manage trips, and organize travel itineraries easily.',
-      technologies: ['React', 'TailwindCSS', 'API Integration'],
+      title: 'Evacu Desk (Easy, Quick and Safe Evacuation)',
+      description: 'EvacuDesk, a web-based evacuation center management system for disaster and emergency operations.',
+      technologies: ['PHP', 'MySQL', 'Tailwind CSS', 'Figma'],
       image: 'bg-gradient-to-br from-primary-300 to-primary-600'
     },
     {
-      title: 'Derma Scan',
-      description: 'A skin analysis and dermatology support tool focused on scanning, tracking, and visual assessment for skin concerns.',
-      technologies: ['React', 'UI/UX', 'Healthcare App'],
+      title: 'Traditions Wellness Spa (Spa Booking & Management System)',
+      description: 'Traditions Wellness Spa, a mobile and web-based spa management system.',
+      technologies: ['PHP', 'Java Script', 'MySQL', 'Tailwind CSS', 'Figma', 'Jetpack Compose'],
       image: 'bg-gradient-to-br from-primary-500 to-primary-800'
     },
     {
@@ -24,18 +24,7 @@ export default function Projects() {
       technologies: ['React', 'Booking System', 'Pet Services'],
       image: 'bg-gradient-to-br from-primary-400 to-primary-600'
     },
-    {
-      title: 'Object Odessey',
-      description: 'A game project built around exploration, object collection, and playful interactive challenge mechanics.',
-      technologies: ['Game Design', 'JavaScript', 'UI/UX'],
-      image: 'bg-gradient-to-br from-primary-500 to-primary-700'
-    },
-    {
-      title: 'NailScape',
-      description: 'A nail appointment booking app for salon clients to reserve services, browse styles, and manage bookings seamlessly.',
-      technologies: ['React', 'Booking Flow', 'Salon App'],
-      image: 'bg-gradient-to-br from-primary-300 to-primary-700'
-    }
+
   ]
 
   return (

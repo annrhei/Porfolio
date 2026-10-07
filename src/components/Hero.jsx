@@ -57,7 +57,7 @@ export default function Hero() {
 
             <div className="flex justify-center md:justify-start space-x-6 mb-12">
               <a
-                href="https://www.linkedin.com/in/ericka-tresenio-brudo-1a72302a3"
+                href="https://www.linkedin.com/in/rheiann-ico-b22885415/?isSelfProfile=true"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-3 bg-primary-800 rounded-full shadow-lg hover:shadow-xl transition-all duration-300 hover:scale-110 text-white"
@@ -65,7 +65,7 @@ export default function Hero() {
                 <Linkedin size={24} />
               </a>
               <a
-                href="https://github.com/erickatres"
+                href="https://github.com/annrhei"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-3 bg-primary-800 rounded-full shadow-lg hover:shadow-xl transition-all duration-300 hover:scale-110 text-white"
@@ -73,7 +73,7 @@ export default function Hero() {
                 <Github size={24} />
               </a>
               <a
-                href="https://discord.gg/d2RFNvgSQ"
+                href="https://discord.gg/Smq2ueEEx"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-3 bg-primary-800 rounded-full shadow-lg hover:shadow-xl transition-all duration-300 hover:scale-110 text-white"

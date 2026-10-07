@@ -94,7 +94,7 @@ export default function About() {
             
             <div className="grid grid-cols-2 gap-4 pt-4">
               <a
-                href="https://www.facebook.com/ericka.brudo.7/"
+                href="https://www.facebook.com/rheiannparagasico"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="card-3d flex items-center space-x-3 p-4 rounded-lg hover:bg-primary-700 transition-colors duration-300"
@@ -109,7 +109,7 @@ export default function About() {
                 className="card-3d flex items-center space-x-3 p-4 rounded-lg hover:bg-primary-700 transition-colors duration-300"
               >
                 <MapPin className="text-primary-400" size={20} />
-                <span className="text-gray-200 font-medium">Alaminos City, Pangasinan, Philippines</span>
+                <span className="text-gray-200 font-medium">Dinalaoan Centro, Calasiao, Pangasinan, Philippines</span>
               </a>
             </div>
           </div>
