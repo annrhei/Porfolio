@@ -91,7 +91,7 @@ export default function Hero() {
                 Hire me
               </button>
               <a
-                href="file:///C:/Users/User/Downloads/RHEIANN-CV.pdf.pdf"
+                href="file:///C:/Users/User/Downloads/RHEIANN-CV.pdf"
                 download
                 target="_blank"
                 rel="noopener noreferrer"
