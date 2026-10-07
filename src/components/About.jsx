@@ -81,7 +81,7 @@ export default function About() {
           <div className="space-y-6">
             <div className="transition-all duration-200 ease-out">
               <p className="text-lg text-gray-300 leading-relaxed">
-                Hello! I'm Ericka Tresenio Brudo, a passionate developer with a love for creating beautiful 
+                Hello! I'm Rheiann Paragas, a passionate developer with a love for creating beautiful 
                 and functional web applications. I believe in writing clean, efficient code and continuously 
                 learning new technologies to stay at the forefront of web development.
               </p>
@@ -100,7 +100,7 @@ export default function About() {
                 className="card-3d flex items-center space-x-3 p-4 rounded-lg hover:bg-primary-700 transition-colors duration-300"
               >
                 <User className="text-primary-400" size={20} />
-                <span className="text-gray-200 font-medium">Ericka Tresenio Brudo</span>
+                <span className="text-gray-200 font-medium">Rheiann Paragas</span>
               </a>
               <a
                 href="https://www.google.com/maps/search/?api=1&query=Alaminos+City+Pangasinan+Philippines"

@@ -1,54 +1,40 @@
-import { ExternalLink, Github as GithubIcon } from 'lucide-react'
-
 export default function Projects() {
   const projects = [
     {
       title: 'BizClear',
       description: 'A business permit processing and inspection tracking system with audit trail management for organized compliance workflows.',
       technologies: ['React', 'Node.js', 'MongoDB', 'Audit Trail'],
-      image: 'bg-gradient-to-br from-primary-400 to-primary-700',
-      github: '#',
-      demo: '#'
+      image: 'bg-gradient-to-br from-primary-400 to-primary-700'
     },
     {
       title: 'Travel Go',
       description: 'A travel planning application designed to help users explore destinations, manage trips, and organize travel itineraries easily.',
       technologies: ['React', 'TailwindCSS', 'API Integration'],
-      image: 'bg-gradient-to-br from-primary-300 to-primary-600',
-      github: '#',
-      demo: '#'
+      image: 'bg-gradient-to-br from-primary-300 to-primary-600'
     },
     {
       title: 'Derma Scan',
       description: 'A skin analysis and dermatology support tool focused on scanning, tracking, and visual assessment for skin concerns.',
       technologies: ['React', 'UI/UX', 'Healthcare App'],
-      image: 'bg-gradient-to-br from-primary-500 to-primary-800',
-      github: '#',
-      demo: '#'
+      image: 'bg-gradient-to-br from-primary-500 to-primary-800'
     },
     {
       title: 'PawSalon',
       description: 'A pet grooming and salon booking platform that helps pet owners schedule services with convenience and clarity.',
       technologies: ['React', 'Booking System', 'Pet Services'],
-      image: 'bg-gradient-to-br from-primary-400 to-primary-600',
-      github: '#',
-      demo: '#'
+      image: 'bg-gradient-to-br from-primary-400 to-primary-600'
     },
     {
       title: 'Object Odessey',
       description: 'A game project built around exploration, object collection, and playful interactive challenge mechanics.',
       technologies: ['Game Design', 'JavaScript', 'UI/UX'],
-      image: 'bg-gradient-to-br from-primary-500 to-primary-700',
-      github: '#',
-      demo: '#'
+      image: 'bg-gradient-to-br from-primary-500 to-primary-700'
     },
     {
       title: 'NailScape',
       description: 'A nail appointment booking app for salon clients to reserve services, browse styles, and manage bookings seamlessly.',
       technologies: ['React', 'Booking Flow', 'Salon App'],
-      image: 'bg-gradient-to-br from-primary-300 to-primary-700',
-      github: '#',
-      demo: '#'
+      image: 'bg-gradient-to-br from-primary-300 to-primary-700'
     }
   ]
 
@@ -100,22 +86,7 @@ export default function Projects() {
                     </span>
                   ))}
                 </div>
-                <div className="flex space-x-4">
-                  <a
-                    href={project.github}
-                    className="flex items-center space-x-2 text-primary-400 hover:text-primary-300 transition-colors"
-                  >
-                    <GithubIcon size={18} />
-                    <span className="text-sm font-medium">Code</span>
-                  </a>
-                  <a
-                    href={project.demo}
-                    className="flex items-center space-x-2 text-primary-400 hover:text-primary-300 transition-colors"
-                  >
-                    <ExternalLink size={18} />
-                    <span className="text-sm font-medium">Demo</span>
-                  </a>
-                </div>
+
               </div>
             </div>
           ))}

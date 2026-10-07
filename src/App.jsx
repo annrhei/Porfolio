@@ -18,7 +18,7 @@ function App() {
       <Projects />
       <Contact />
       <footer className="bg-primary-900 text-white py-8 text-center">
-        <p className="text-primary-200">© 2026 Ericka Tresenio Brudo. All rights reserved.</p>
+        <p className="text-primary-200">© 2026 Rheiann Paragas. All rights reserved.</p>
       </footer>
     </div>
   )

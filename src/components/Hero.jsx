@@ -31,7 +31,7 @@ export default function Hero() {
               <div className="relative z-10 w-full h-full rounded-full overflow-hidden bg-primary-950 shadow-[0_25px_50px_rgba(15,23,42,0.6)] border border-primary-400/30">
                 <img
                   src={profileImage}
-                  alt="Ericka Tresenio Brudo"
+                  alt="Rheiann Paragas"
                   className="w-full h-full object-cover"
                   onError={(e) => {
                     e.target.style.display = 'none'
@@ -39,7 +39,7 @@ export default function Hero() {
                   }}
                 />
                 <div className="w-full h-full rounded-full bg-white items-center justify-center hidden">
-                  <span className="text-5xl font-bold text-gradient">ETB</span>
+                  <span className="text-5xl font-bold text-gradient">RP</span>
                 </div>
               </div>
             </div>
@@ -48,7 +48,7 @@ export default function Hero() {
           {/* Right side - Text */}
           <div className="text-center md:text-left md:pr-4 order-1 md:order-2">
             <h1 className="text-5xl md:text-7xl font-bold mb-10 text-white">
-              Hi, It's Ericka Tresenio Brudo
+              Hi, I'm Rheiann Paragas
             </h1>
             
             <p className="text-lg md:text-xl text-gray-300 mb-8 max-w-2xl">
