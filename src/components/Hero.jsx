@@ -52,7 +52,7 @@ export default function Hero() {
             </h1>
             
             <p className="text-lg md:text-xl text-gray-300 mb-8 max-w-2xl">
-              Full Stack Developer | Creative Problem Solver | Tech Enthusiast
+              UI / UX Developer | Creative Problem Solver | Tech Enthusiast
             </p>
 
             <div className="flex justify-center md:justify-start space-x-6 mb-12">
@@ -91,7 +91,7 @@ export default function Hero() {
                 Hire me
               </button>
               <a
-                href="https://ap.wps.com/cms/docs/d/cbCaiuQZ0erkGUGB"
+                href="file:///C:/Users/User/Downloads/RHEIANN-CV.pdf.pdf"
                 download
                 target="_blank"
                 rel="noopener noreferrer"
