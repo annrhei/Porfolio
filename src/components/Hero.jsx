@@ -91,7 +91,7 @@ export default function Hero() {
                 Hire me
               </button>
               <a
-                href="file:///C:/Users/User/Downloads/RHEIANN-CV.pdf"
+                href="fhttps://ap.wps.com/cms/docs/d/cbRaqhdlA8SOgnqc?platform=pc&refer=copylink"
                 download
                 target="_blank"
                 rel="noopener noreferrer"
